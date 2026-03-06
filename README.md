@@ -94,5 +94,6 @@ This project demonstrates how data analytics can help improve industrial product
 By analyzing worker performance data, businesses can make informed decisions to increase efficiency, reduce operational loss, and improve employee performance.
 
 👩‍💻AUTHOR
+
 MOUNIKA KODA
 Data Science 
